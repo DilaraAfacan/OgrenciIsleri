@@ -1,2 +1,2 @@
-# OgrenciIsleri
+# Öğrenci İşleri Sayfası
 İnternet Programlama dersi vize projesi kapsamında bir web sayfası tasarlanmıştır.Kayıt bölmesinde öğrenci adı ve numarası ile vize final notları girilerek listelenmektedir.Hesaplama bölmesinde girilen öğrencilerin vize ve final notlarına göre harf notları hesaplanmaktadır.Raporlama bölmesinde ise harf notu en düşük ve en yüksek öğrencilerin gösterilmesiyle her öğrencinin başarı notlarının frekans grafiği çizilmektedir.
